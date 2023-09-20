@@ -1,4 +1,4 @@
-name: Shell commands
+name: First Github Action shell commands
 
 on: [push]
 
